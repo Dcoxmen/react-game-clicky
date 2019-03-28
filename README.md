@@ -3,12 +3,23 @@ React Memory Clicky Game
 Overview
 For this assignment, you'll create a memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
 
-This application was created with:
-React
-All requirements were met.
+# React Clicky Memory Game
 
-Demo;
-https://dcoxmen.github.io/react-game-clicky/
+A React based memory game. Deployed to Github pages.
+
+**Link** [memory-game](https://dcoxmen.github.io/react-game-clicky/)
+
+## Tecnologies Used:
+
+- React
+
+## Built With:
+
+- [React](https://reactjs.org/docs/getting-started.html)
+- [React-Bootstrap](https://react-bootstrap.github.io/)
+- [NodeJS](https://nodejs.org/en/docs/)
+
+## Assignment Description
 
 Submission on BCS
 
