@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/react-game-clicky/static/media/eyes5.94dcff86.png"
   },
   {
-    "revision": "69438a99ffa2a029513f",
-    "url": "/react-game-clicky/static/css/main.4d50fa08.chunk.css"
+    "revision": "b146579d5a23221deae3",
+    "url": "/react-game-clicky/static/css/main.548ae108.chunk.css"
   },
   {
     "revision": "79023b429b3ec0284992",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/react-game-clicky/static/media/eyes4.ed73b658.png"
   },
   {
-    "revision": "69438a99ffa2a029513f",
+    "revision": "b146579d5a23221deae3",
     "url": "/react-game-clicky/static/js/main.09dddbb6.chunk.js"
   },
   {
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/react-game-clicky/static/media/eyes12.6ee41fb0.png"
   },
   {
-    "revision": "59367e6165b2ff692892387ca21c4ef3",
+    "revision": "53b525cd0728aad92a2b575eec68957a",
     "url": "/react-game-clicky/index.html"
   }
 ];
